@@ -3,8 +3,7 @@
 **Disciplina:** Inteligência Artificial  
 **Professor:** Edjard Mota  
 **Aluna:** Jessica de Figueredo Colares  
-**Matrícula:** 22060036  
-**Data de Entrega:** 19/05/2025  
+**Matrícula:** 22060036
 
 ---
 
